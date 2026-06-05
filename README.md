@@ -2,7 +2,7 @@
 
 ###
 
-## 🙋‍♀️ Sobre mí
+## Sobre mí
 
 Soy Tecnóloga en Análisis y Desarrollo de Software (ADSO) del SENA, próxima a iniciar mi etapa productiva.
 
