@@ -1,11 +1,8 @@
-
-## Sobre mí
+## 🙋‍♀️ Sobre mí
 
 Soy Tecnóloga en Análisis y Desarrollo de Software (ADSO) del SENA, próxima a iniciar mi etapa productiva.
 
 Durante mi formación he participado en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, Node.js, Express, React y MySQL. Me interesa especialmente el desarrollo de software, el trabajo con bases de datos, el consumo de APIs y la construcción de soluciones que ayuden a resolver problemas reales.
-
-Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académicos, cursos complementarios y aprendizaje autónomo, buscando mejorar tanto mis habilidades técnicas como mi capacidad de análisis y trabajo en equipo.
 
 ###
 
@@ -48,7 +45,7 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos académ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353951/dbeaver.svg" height="30" alt="dbeaver" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" height="30" alt="dbeaver" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman" />
 </div>
