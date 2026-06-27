@@ -1,5 +1,6 @@
 ## Sobre mí
 
+
 Soy Tecnóloga en Análisis y Desarrollo de Software (ADSO) del SENA, próxima a iniciar mi etapa productiva.
 
 Durante mi formación he participado en el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, Node.js, Express, React y MySQL. Me interesa especialmente el desarrollo de software, el trabajo con bases de datos, el consumo de APIs y la construcción de soluciones que ayuden a resolver problemas reales.
